@@ -1,0 +1,23 @@
+Korrektur 01_python_basics.pdf
+
+Seite      |    Korrektur (richtig bezüglich python3)    
+_____________________________________________________________
+7          |    u'\u2B00'                          
+_____________________________________________________________
+11         |    L[0:2] erzeugt hier [123,'spam']
+_____________________________________________________________
+12         |    L.sort() für gegebene Liste nicht möglich
+           |    (float und int mit String nicht vergleichbar)
+_____________________________________________________________
+21         |    Zeile 8: f=open('data.txt','a')
+           |    Zeile 9: f.write('Cont.\n')
+_____________________________________________________________
+25         |    Zeile 4: x = 'spam'
+_____________________________________________________________
+Gesamte    |    print-statements mit Klammern aufrufen, z.B.:
+.pdf-Datei |       print('shave and a haircut')
+           |       print('whats up?')
+           |       print('run away')
+           |       ...
+           |
+
