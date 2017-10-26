@@ -29,7 +29,7 @@ Verwenden Sie aber zur Bearbeitung und Abgabe auf jeden Fall das Gitlab Reposito
 
 | Date | slides | homework | materials |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
-| Oct. 17, 2017 | [Course Intro](01_intro.pdf){:target="_blank"}; [Python Basics](01_python_basics.pdf){:target="_blank"}; [Python Tests](01_unit_testing.pdf){:target="_blank"} |  | |
+| Oct. 17, 2017 | [Course Intro](01_intro.pdf){:target="_blank"}; [Python Basics](01_python_basics.pdf){:target="_blank"}; [Python Tests](01_unit_testing.pdf){:target="_blank"}; [python_basics-corrections](Korrektur-01_python_basics.pdf){:target="_blank"} |  | |
 | Oct. 19, 2017 |  | [Homework 1](hw01_basics.pdf){:target="_blank"} | |
 
 
